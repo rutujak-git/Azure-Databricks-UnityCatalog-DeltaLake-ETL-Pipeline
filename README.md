@@ -80,3 +80,9 @@ Kaggle → ADLS Gen2 → Access Connector ID → Databricks Unity Catalog (Bronz
 
 ### 🎥 YouTube Walkthrough
 https://youtu.be/hUTDVTuZO60?si=AjykpFaOwVnrrUFr
+
+---
+
+## 📌 Dataset
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
